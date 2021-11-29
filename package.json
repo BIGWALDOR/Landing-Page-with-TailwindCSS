@@ -1,0 +1,23 @@
+{
+  "name": "Landing-Page-with-TailwindCSS",
+  "version": "1.0.0",
+  "description": "Built a landing page using Tailwind CSS in order to learn the Tailwind CSS framework",
+  "main": "index.js",
+  "scripts": {
+    "build:tailwinds": "tailwind build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BIGWALDOR/Landing-Page-with-TailwindCSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BIGWALDOR/Landing-Page-with-TailwindCSS/issues"
+  },
+  "homepage": "https://github.com/BIGWALDOR/Landing-Page-with-TailwindCSS#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
